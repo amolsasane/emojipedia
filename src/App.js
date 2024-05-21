@@ -51,7 +51,7 @@ var emojiDictionory = {
   "😭": "Crying",
   "🫣": "Peeking",
   "😈": "Happy Devil",
-  "🤤": "Water Dropping"
+  "🤤": "Water Dropping",
 };
 
 var myEmoji = Object.keys(emojiDictionory);
